@@ -20,6 +20,9 @@ body{
   margin-top: 10px;
   margin-left: 10px;
 }
+.txt-music-box a{
+  text-decoration: none;
+}
 .name-music{
   font-size: 20px;
   line-height: 20px;
